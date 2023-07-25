@@ -30,6 +30,8 @@ In addition to this GitHub organization, this project also makes use of other as
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the project, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct]([CODE-OF-CONDUCT.md](https://github.com/niemopen/oasis-open-project/blob/main/CODE-OF-CONDUCT.md)).
 
+Maintainers for this repository are Tom Carlson (TomCarlson-NTAC), Aubrey Beach (albeach) and Shunda Louis (Shunbah).
+
 # Governance
 
 NIEM Open operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). Further details can be found in [GOVERNANCE.md](https://github.com/niemopen/oasis-open-project/blob/main/GOVERNANCE.md). 
