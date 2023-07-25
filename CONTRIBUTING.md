@@ -6,14 +6,12 @@ NIEMOpen is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) a
 or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public 
 repository projects.
 
-Participation is expected to be consistent with the [OASIS Code of Conduct](https://www.oasis-open.org/policies-guidelines/oasis-participants-code-of-conduct/), the 
-licenses applicable for this repository, and the acceptance of our [Contributor License Agreement](https://cla-assistant.io/niemopen/nmo-training), 
-generally at the time of first contribution. 
+Participation is expected to be consistent with the [OASIS Code of Conduct](https://www.oasis-open.org/policies-guidelines/oasis-participants-code-of-conduct/), the licenses applicable for this repository, and the acceptance of our [Contributor License Agreement](https://cla-assistant.io/niemopen/nmo-training), generally at the time of first contribution. 
 
 ## How to Contribute
 
 When contributing to the repositories in this project, please first discuss significant changes you wish to make via issue, email, GitHub discussion, 
-or via the [project's email list](niemopen-harmonizationsc@lists.oasis-open-projects.org).
+or via the [project's email list](https://lists.oasis-open-projects.org/g/niemopen-harmonizationsc/topics).
 
 ### Issues
 
@@ -21,7 +19,7 @@ One of the best ways to communicate with the rest of the project contributors is
 
 ### Discussions and announcements
 
-Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](niemopen-harmonizationsc@lists.oasis-open-projects.org). 
+Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list]([niemopen-harmonizationsc@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/niemopen-harmonizationsc/topics). 
 
 Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for 
 Pull Requests. 
