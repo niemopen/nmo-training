@@ -13,7 +13,7 @@ A technical webinar focused on developers and implementers who are interested in
 
 All materials are available on the NIEM Training Github repo at [https://github.com/niemopen/nmo-training/](https://github.com/niemopen/nmo-training/). Specific materials used are listed on the README page and include:
 
-- [**Master NIEM Training Document**](Master%20NIEM%20Training%20Document.md)
+- [**Main NIEM Training Document**](Main%20NIEM%20Training%20Document.md)
 - [Mapping Spreadsheets](Mapping_Spreadsheets/)
 - [Ersatz Textual Instances](Text_Document/)
 
@@ -288,7 +288,7 @@ Each step produces artifacts used by subsequent steps:
 ___
 ### Message Spec / IEPD Artifacts - Documentation
 
-- Master Documentation (Word)
+- Main Documentation (Word)
 - Message Spec / IEPD catalog document (`iepd-catalog.xml`)
 - Change log (text)
 - README (text)
@@ -2356,12 +2356,12 @@ ___
 - Changelog
 - Conformance Assertion
 - Mapping Spreadsheet
-- Master Documentation
+- Main Documentation
 
-## Master Documentation
+## Main Documentation
 - Just a Word document
 	- Or another document format, e.g. Markdown, PDF, etc.
-- A NIEM Message Spec / IEPD master document should (at a minimum) describe:
+- A NIEM Message Spec / IEPD main document should (at a minimum) describe:
 	- Message Spec / IEPD purpose
 	- Scope
 	- Business value
