@@ -17,7 +17,7 @@ A technical webinar focused on developers and implementers who are interested in
 All materials are available on the NIEM Training Github repo at [https://github.com/NIEM/NIEM-Training](https://github.com/NIEM/NIEM-Training). Specific materials used are listed on the README page and include:
 
 - [**Master NIEM Training Document**](https://github.com/NIEM/NIEM-Training/blob/main/Master%20NIEM%20Training%20Document.md)
-- [Mapping Spreadsheets](https://github.com/NIEM/NIEM-Training/tree/main/Mapping_Spreadsheets)
+- [Mapping Spreadsheets](Mapping_Spreadsheets/)
 - [Ersatz Textual Instances](https://github.com/NIEM/NIEM-Training/tree/main/Text_Document)
 
 ## Sample Message Specification
