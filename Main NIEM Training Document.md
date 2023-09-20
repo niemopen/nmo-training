@@ -3,9 +3,6 @@
 # Main NIEM Training Document
 NIEM Training
 
-Tom Carlson, GTRI
-Thomas.Carlson@gtri.gatech.edu
-
 # Introduction
 
 ## Purpose
@@ -14,15 +11,15 @@ A technical webinar focused on developers and implementers who are interested in
 
 ## Supporting Documents
 
-All materials are available on the NIEM Training Github repo at [https://github.com/NIEM/NIEM-Training](https://github.com/NIEM/NIEM-Training). Specific materials used are listed on the README page and include:
+All materials are available on the NIEM Training Github repo at [https://github.com/niemopen/nmo-training/](https://github.com/niemopen/nmo-training/). Specific materials used are listed on the README page and include:
 
-- [**Master NIEM Training Document**](https://github.com/NIEM/NIEM-Training/blob/main/Master%20NIEM%20Training%20Document.md)
+- [**Master NIEM Training Document**](Master%20NIEM%20Training%20Document.md)
 - [Mapping Spreadsheets](Mapping_Spreadsheets/)
-- [Ersatz Textual Instances](https://github.com/NIEM/NIEM-Training/tree/main/Text_Document)
+- [Ersatz Textual Instances](Text_Document/)
 
 ## Sample Message Specification
 
-- [Crash Driver Message Specification](https://github.com/NIEM/NIEM-Training/tree/main/Crash%20Driver%20IEPD)
+- [Crash Driver Message Specification](Crash%20Driver%20IEPD/)
 
 ## Agenda
 
@@ -51,7 +48,7 @@ ___
 - Ask questions via chat _when you have them_
 	- Someone is monitoring chat and will interrupt me as needed
 - This document and supporting materials are at:
-	- https://github.com/niem/niem-training
+	- [https://github.com/niem/niem-training](https://github.com/niemopen/nmo-training/)
 ___
 ## Introduction to NIEM
 
@@ -2291,7 +2288,7 @@ ___
 	- With the elements / types you want
 	- Plus things needed to make the elements / types you want work
 - Use the [SSGT](https://tools.niem.gov/niemtools/ssgt/index.iepd) for this! **Demo Time!**
-- [MEP Builder](http://localhost:3000/) can also help!  **More Demo Time!**
+- [MEP Builder](https://sourceforge.net/projects/niem-mep-builder/) can also help!  **More Demo Time!**
 
 ## Extension Schema(s)
 - Create new elements for your exchange
